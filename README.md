@@ -1,4 +1,4 @@
-![Post welcome comment](https://github.com/steven-ma-fnz/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)
+![Post welcome comment](https://github.com/steven-ma-fnz/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg?branch=main)
 <header>
 
 # Hello GitHub Actions
